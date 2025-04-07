@@ -31,7 +31,7 @@ const App = () => {
         name="index"
         options={
           {
-            title: 'Mis Notas',
+            title: '',
           }
         }
       />
